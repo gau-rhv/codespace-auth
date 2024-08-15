@@ -1,3 +1,2 @@
-print("hello world")
-test = input("why are you so  retarded ?")
-print(test , ", that seems like a lame reason !")
+n0 = 0
+n1 = int(input("
